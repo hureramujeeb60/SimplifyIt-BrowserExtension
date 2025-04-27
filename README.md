@@ -11,13 +11,4 @@ SimplifyIt is a Chrome extension that simplifies complex text on any webpage to 
 - **Customizable simplification**: Defaults to a "basic" reading level suitable for a 10-year-old reader
 
 ## Project Structure
-SimplifyIt/
-├── backend/             # FastAPI server 
-│   ├── .env             # Environment variables (API keys)
-│   └── main.py          # Backend implementation
-│
-└── frontend/            # Chrome extension
-    ├── background.js    # Extension background service worker
-    ├── content-script.js # Handles DOM manipulation and popup display
-    ├── manifest.json    # Extension configuration
-    └── popup.html       # Extension popup UI
+![alt text](image.png)
